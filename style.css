@@ -114,7 +114,7 @@ main {
   header {
     flex-direction: row;
     width: 100%;
-    align-content: center;
+    align-items: center;
   }
 
   h1 {
