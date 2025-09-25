@@ -161,3 +161,12 @@ main {
 
 
 }
+
+a[href^="tel"],
+a[href^="sms"],
+a[x-apple-data-detectors] {
+  color: inherit;
+  text-decoration: none;
+  cursor: default;
+  pointer-events: none;
+}
