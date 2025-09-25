@@ -155,6 +155,10 @@ main {
     z-index: 2;
   }
 
+  .experience-date {
+    text-align: right;
+  }
+
   .skills-lists {
     gap: 0px;
   }
